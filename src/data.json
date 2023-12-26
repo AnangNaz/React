@@ -1,0 +1,1176 @@
+[
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Around the World in Eighty Days",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Journey to the Center of the Earth",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "Raise the Titanic!",
+    "price": 8,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Sahara",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dragon",
+    "price": 200,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "River God",
+    "price": 150,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Seventh Scroll",
+    "price": 9,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Quest",
+    "price": 7,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Robert Louis Stevenson",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Treasure Island",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "H. Rider Haggard",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "King Solomon's Mines",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "J.R.R. Tolkien",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Hobbit",
+    "price": 28,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Alexandre Dumas",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Count of Monte Cristo",
+    "price": 17,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jane Austen",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Pride and Prejudice",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Romance",
+
+    "stock": 99
+  },
+  {
+    "name": "Nicholas Sparks",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "The Notebook",
+    "price": 20,
+    "genre": "Romance",
+
+    "stock": 99
+  },
+  {
+    "name": "Jojo Moyes",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Me Before You",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Romance",
+
+    "stock": 99
+  },
+  {
+    "name": "Stephen King",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Shining",
+    "price": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": "Bram Stoker",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dracula",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": "William Peter Blatty",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Exorcist",
+    "price": 15,
+    "discountPrice": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": " Shirley Jackson",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Haunting of Hill House",
+    "price": 13,
+    "discountPrice": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": "Bret Easton Ellis",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "American Psycho",
+    "price": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": "Frank Herbert",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Dune",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+
+    "stock": 99
+  },
+  {
+    "name": "Orson Scott Card",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Ender's Game",
+    "price": 20,
+    "genre": "Sci-Fi",
+
+    "stock": 99
+  },
+  {
+    "name": "Douglas Adams",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The Hitchhiker's Guide to the Galaxy",
+    "price": 20,
+    "genre": "Sci-Fi",
+
+    "stock": 99
+  },
+  {
+    "name": "H.G. Wells",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The War of the Worlds",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+
+    "stock": 99
+  },
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Around the World in Eighty Days",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Journey to the Center of the Earth",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "Raise the Titanic!",
+    "price": 8,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Sahara",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dragon",
+    "price": 200,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "River God",
+    "price": 150,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Seventh Scroll",
+    "price": 9,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Quest",
+    "price": 7,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Robert Louis Stevenson",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Treasure Island",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "H. Rider Haggard",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "King Solomon's Mines",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "J.R.R. Tolkien",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Hobbit",
+    "price": 28,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Alexandre Dumas",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Count of Monte Cristo",
+    "price": 17,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jane Austen",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Pride and Prejudice",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Romance",
+
+    "stock": 99
+  },
+  {
+    "name": "Nicholas Sparks",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "The Notebook",
+    "price": 20,
+    "genre": "Romance",
+
+    "stock": 99
+  },
+  {
+    "name": "Jojo Moyes",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Me Before You",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Romance",
+
+    "stock": 99
+  },
+  {
+    "name": "Stephen King",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Shining",
+    "price": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": "Bram Stoker",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dracula",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": "William Peter Blatty",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Exorcist",
+    "price": 15,
+    "discountPrice": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": " Shirley Jackson",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Haunting of Hill House",
+    "price": 13,
+    "discountPrice": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": "Bret Easton Ellis",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "American Psycho",
+    "price": 20,
+    "genre": "Horror",
+
+    "stock": 99
+  },
+  {
+    "name": "Frank Herbert",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Dune",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+
+    "stock": 99
+  },
+  {
+    "name": "Orson Scott Card",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Ender's Game",
+    "price": 20,
+    "genre": "Sci-Fi",
+
+    "stock": 99
+  },
+  {
+    "name": "Douglas Adams",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The Hitchhiker's Guide to the Galaxy",
+    "price": 20,
+    "genre": "Sci-Fi",
+
+    "stock": 99
+  },
+  {
+    "name": "H.G. Wells",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The War of the Worlds",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+
+    "stock": 99
+  },
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Around the World in Eighty Days",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Journey to the Center of the Earth",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "Raise the Titanic!",
+    "price": 8,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Sahara",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dragon",
+    "price": 200,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "River God",
+    "price": 150,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Seventh Scroll",
+    "price": 9,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Quest",
+    "price": 7,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Robert Louis Stevenson",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Treasure Island",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "H. Rider Haggard",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "King Solomon's Mines",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "J.R.R. Tolkien",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Hobbit",
+    "price": 28,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Alexandre Dumas",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Count of Monte Cristo",
+    "price": 17,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jane Austen",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Pride and Prejudice",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Romance",
+    "stock": 99
+  },
+  {
+    "name": "Nicholas Sparks",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "The Notebook",
+    "price": 20,
+    "genre": "Romance",
+    "stock": 99
+  },
+  {
+    "name": "Jojo Moyes",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Me Before You",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Romance",
+    "stock": 99
+  },
+  {
+    "name": "Stephen King",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Shining",
+    "price": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "Bram Stoker",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dracula",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "William Peter Blatty",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Exorcist",
+    "price": 15,
+    "discountPrice": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": " Shirley Jackson",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Haunting of Hill House",
+    "price": 13,
+    "discountPrice": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "Bret Easton Ellis",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "American Psycho",
+    "price": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "Frank Herbert",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Dune",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "Orson Scott Card",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Ender's Game",
+    "price": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "Douglas Adams",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The Hitchhiker's Guide to the Galaxy",
+    "price": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "H.G. Wells",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The War of the Worlds",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Around the World in Eighty Days",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Journey to the Center of the Earth",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "Raise the Titanic!",
+    "price": 8,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Sahara",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dragon",
+    "price": 200,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "River God",
+    "price": 150,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Seventh Scroll",
+    "price": 9,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Quest",
+    "price": 7,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Robert Louis Stevenson",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Treasure Island",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "H. Rider Haggard",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "King Solomon's Mines",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "J.R.R. Tolkien",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Hobbit",
+    "price": 28,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Alexandre Dumas",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Count of Monte Cristo",
+    "price": 17,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jane Austen",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Pride and Prejudice",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Romance",
+    "stock": 99
+  },
+  {
+    "name": "Nicholas Sparks",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "The Notebook",
+    "price": 20,
+    "genre": "Romance",
+    "stock": 99
+  },
+  {
+    "name": "Jojo Moyes",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Me Before You",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Romance",
+    "stock": 99
+  },
+  {
+    "name": "Stephen King",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Shining",
+    "price": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "Bram Stoker",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dracula",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "William Peter Blatty",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Exorcist",
+    "price": 15,
+    "discountPrice": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": " Shirley Jackson",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Haunting of Hill House",
+    "price": 13,
+    "discountPrice": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "Bret Easton Ellis",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "American Psycho",
+    "price": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "Frank Herbert",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Dune",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "Orson Scott Card",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Ender's Game",
+    "price": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "Douglas Adams",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The Hitchhiker's Guide to the Galaxy",
+    "price": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "H.G. Wells",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The War of the Worlds",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Around the World in Eighty Days",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jules Verne",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Journey to the Center of the Earth",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "Raise the Titanic!",
+    "price": 8,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Sahara",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Clive Cussler",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dragon",
+    "price": 200,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "River God",
+    "price": 150,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Seventh Scroll",
+    "price": 9,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Wilbur Smith",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Quest",
+    "price": 7,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Robert Louis Stevenson",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Treasure Island",
+    "price": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "H. Rider Haggard",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "King Solomon's Mines",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "J.R.R. Tolkien",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Hobbit",
+    "price": 28,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Alexandre Dumas",
+    "img": "./img-book.png",
+    "rating": 4,
+    "nameProduct": "The Count of Monte Cristo",
+    "price": 17,
+    "discountPrice": 20,
+    "genre": "Adventure",
+    "stock": 99
+  },
+  {
+    "name": "Jane Austen",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "Pride and Prejudice",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Romance",
+    "stock": 99
+  },
+  {
+    "name": "Nicholas Sparks",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "The Notebook",
+    "price": 20,
+    "genre": "Romance",
+    "stock": 99
+  },
+  {
+    "name": "Jojo Moyes",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Me Before You",
+    "price": 12,
+    "discountPrice": 20,
+    "genre": "Romance",
+    "stock": 99
+  },
+  {
+    "name": "Stephen King",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Shining",
+    "price": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "Bram Stoker",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Dracula",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "William Peter Blatty",
+    "img": "./img-book.png",
+    "rating": 3,
+    "nameProduct": "The Exorcist",
+    "price": 15,
+    "discountPrice": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": " Shirley Jackson",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "The Haunting of Hill House",
+    "price": 13,
+    "discountPrice": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "Bret Easton Ellis",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "American Psycho",
+    "price": 20,
+    "genre": "Horror",
+    "stock": 99
+  },
+  {
+    "name": "Frank Herbert",
+    "img": "./img-book.png",
+    "rating": 2,
+    "nameProduct": "Dune",
+    "price": 10,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "Orson Scott Card",
+    "img": "./img-book.png",
+    "rating": 1,
+    "nameProduct": "Ender's Game",
+    "price": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "Douglas Adams",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The Hitchhiker's Guide to the Galaxy",
+    "price": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  },
+  {
+    "name": "H.G. Wells",
+    "img": "./img-book.png",
+    "rating": 5,
+    "nameProduct": "The War of the Worlds",
+    "price": 5,
+    "discountPrice": 20,
+    "genre": "Sci-Fi",
+    "stock": 99
+  }
+]
