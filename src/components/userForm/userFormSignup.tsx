@@ -5,33 +5,18 @@ import CustomInput from './customForm/customUserForm'
 import axios from 'axios'
 
 const initialValues = {
-  fullname: '',
-  username: '',
   email: '',
   password: ''
 }
 
-const validationSchema = Yup.object().shape({
-  fullname: Yup.string()
-    .required('Name is required.')
-    .matches(/^[A-Za-z]+([ A-Za-z]+)*$/, { message: 'Please provide a valid name.' }),
-  username: Yup.string()
-    .required('Name is required.')
-    .matches(/^[A-Za-z]+([ A-Za-z]+)*$/, { message: 'Please provide a valid name.' }),
-  email: Yup.string().required('Email is required.').email('Please provide a valid email address.'),
-  password: Yup.string().required('Password is required.').min(8, 'Must be at least 8 characters.')
-})
-
 interface FormValues {
-  fullname: string
-  username: string
   email: string
   password: string
 }
 
 const handleSubmit = async (values: FormValues, { setSubmitting }: FormikHelpers<FormValues>) => {
   try {
-    const response = await axios.post('http://localhost:3031/users', values, {
+    const response = await axios.post('http://localhost:5001/users', values, {
       headers: {
         'Content-Type': 'application/json'
       }
@@ -51,17 +36,16 @@ const handleSubmit = async (values: FormValues, { setSubmitting }: FormikHelpers
 // }
 
 const TypeInput = [
-  { type: 'string', name: 'fullname', placeholder: 'Full Name' },
-  { type: 'string', name: 'username', placeholder: 'User Name' },
+  { type: 'name', name: 'name', placeholder: 'name' },
   { type: 'email', name: 'email', placeholder: 'Email' },
-  { type: 'password', name: 'password', placeholder: 'Password' }
+  { type: 'password', name: 'password', placeholder: 'Password' },
+  { type: 'confPassword', name: 'confPassword', placeholder: 'confPassword' }
 ]
 
 const FormSignup = (): React.ReactElement => {
   return (
     <Formik
       initialValues={initialValues}
-      validationSchema={validationSchema}
       onSubmit={handleSubmit}>
       <Form className='w-[280px] sm:w-[360px]'>
         <div className='flex flex-col items-center p-0 gap-6 w-full lg:w-[360px] h-auto rounded-xl'>
