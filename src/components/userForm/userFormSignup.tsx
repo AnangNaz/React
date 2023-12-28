@@ -31,7 +31,7 @@ interface FormValues {
 
 const handleSubmit = async (values: FormValues, { setSubmitting }: FormikHelpers<FormValues>) => {
   try {
-    const response = await axios.post('http://172.29.114.152:3131/users', values, {
+    const response = await axios.post('http://localhost:3031/users', values, {
       headers: {
         'Content-Type': 'application/json'
       }

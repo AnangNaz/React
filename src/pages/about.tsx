@@ -57,34 +57,32 @@ const aboutUs = (): React.ReactElement => {
         <div className=''>
           <h1 className='font-bold text-2xl leading-[29.05px]'>OUR MESSAGE</h1>
           <p className='font normal text-sm'>
-            Mirum est notare quam littera gothica, quam nunc putamus parum
+            One of the purposes of reading books is to broaden our horizons <br /> and knowledge about various things.
           </p>
           <p className='font normal text-sm'>
-            claram, anteposuerit litterarum formas humanitatis per seacula
           </p>
-          <p className='font normal text-sm'>quarta decima et quinta decima.</p>
+          <p className='font normal text-sm'></p>
         </div>
         <div className=''>
           <h1 className='font-bold text-2xl leading-[29.05px]'>OUR MESSAGE</h1>
           <p className='font normal text-sm'>
-            Mirum est notare quam littera gothica, quam nunc putamus parum
+            By reading books, we can get useful information, <br /> inspiration, and motivation for our lives.
           </p>
           <p className='font normal text-sm'>
-            claram, anteposuerit litterarum formas humanitatis per seacula
           </p>
-          <p className='font normal text-sm'>quarta decima et quinta decima.</p>
+          <p className='font normal text-sm'></p>
         </div>
       </div>
       <div className='flex items-center text-center max-w-7xl mx-auto flex-column justify-center mt-[50px] mb-[100px]'>
         <div className='flex flex-col'>
           <h1 className='text-[32px] font-bold'>OUR GOAL</h1>
           <p className='font normal text-sm'>
-          Mirum est notare quam littera gothica, quam nunc putamus parum
+          The purpose of reading books is to obtain benefits from what we read, whether it is information,
           </p>
           <p className='font normal text-sm'>
-          claram, anteposuerit litterarum formas humanitatis per seacula
+          knowledge, entertainment, inspiration, motivation, or beauty.
           </p>
-          <p className='font normal text-sm'>quarta decima et quinta decima.</p>
+          <p className='font normal text-sm'>There are various purposes of reading books that we can choose according to our needs and interests.</p>
         </div>
       </div>
       <Footer />

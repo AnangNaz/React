@@ -73,11 +73,7 @@ function ContactUs(): React.ReactElement {
             <div className='lg:m-auto '>
               <h1 className='mb-5 text-[24px] font-bold'>Contact us</h1>
               <p className='mb-7 font-regular text-[14px]'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam consequuntur
-                laudantium esse culpa eveniet ratione soluta pariatur repudiandae asperiores veniam,
-                nesciunt iure et exercitationem, nisi aliquam? Tempore optio dicta reiciendis quas,
-                officiis ducimus accusantium facilis perspiciatis eius officia tenetur nihil dolores
-                veritatis necessitatibus repellendus sunt deserunt! Odit vel tempora accusantium.
+                If you have any questions, suggestions, or complaints about our products or services, please contact us via email, phone, or social media. We will be happy to assist you. We are always open to hearing feedback and criticism from you. If you want to talk to us, you can fill out the form below or contact us through one of the available channels. We will respond to your message as soon as possible.
               </p>
               <h3 className='mb-5 text-xl font-bold'>Address</h3>
               <h3 className='text-[14px]'>123 Main Street, Anytown, CA 12345 - USA</h3>

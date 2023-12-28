@@ -12,10 +12,10 @@ interface LinkListProps {
 }
 
 const addressText = [
-  'ipsum dolor sit, amet consectetur adipisicing elit. Totam delectus repudiandae facere.',
+  'Books are not made for decoration. But, there is no other item that complements the furniture of the house so beautifully besides books',
   'Address : No. 96, Cengkareng, Jakarta, Indonesia',
-  'phone : +1 1234 1234 1234',
-  'Email : support@example.com'
+  'phone : +628 233970 5798',
+  'Email : bookbuzz@email.com'
 ]
 
 const businessHour = ['Mon - Fri : 8AM - 10PM', 'Sat : 9AM - 8PM', 'Sun : Closed']
